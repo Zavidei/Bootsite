@@ -37,9 +37,7 @@ h1 {
     padding: 15px;
 }
 
-.row {
-    margin-top: 30px;
-}
+
 
 .card {
     background-color: rgb(36, 37, 38, 0.95);
@@ -82,4 +80,82 @@ footer {
 
 .help {
     text-decoration: none;
+}
+.side{
+    margin-top: 100px;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    padding: 10px;
+}
+.accordion{
+    margin: 15px;
+}
+.accordion-item{
+    background-color:  rgb(36, 37, 38, 0.95);
+    border: none;
+}
+.accordion-button{
+    background-color:  rgb(36, 37, 38, 0.95);
+    border: none;
+    color: aliceblue;
+}
+p{
+    color: aliceblue;
+}
+.card-group{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.card{
+    margin: 15px;
+}
+.mainNews{
+    margin-top: 20px;
+}
+.text-body-secondary{
+    color:rgba(255, 255, 255, 0.614) !important;
+}
+.col-md-4{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+.classic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+}
+.logoClassic{
+    margin-top: 50px;
+    width: 70%;
+}
+.classicText{
+    font-size: 22px;
+}
+.text{
+    padding: 20px;
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.download{
+    align-items: center;
+    margin-top: 50px;
+    width: 500px;
+    height: 100px;
+    font-size: 2em;
+
+}
+.buttonDownload{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
 }
